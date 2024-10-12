@@ -1,6 +1,16 @@
 ## CYB-101 Google IDX Lab Environment
 
-You should see a terminal at the bottom of this window where you can work on labs and projects. Note that Google IDX is still in beta which means it is not yet stable. Make sure you record your project work in the Google Docs template as you make progress just in case the environment becomes corrupted.
+You should see a terminal at the bottom of this window where you can work on labs and projects. If the terminal panel is missing, you can open it again with a keyboard shortcut:
+
+Windows/Linux
+<kbd>⌃ Control</kbd> + <kbd>`</kbd>
+
+macOS
+<kbd>⌘ Command</kbd> + <kbd>`</kbd>
+
+It can also be found in the hamburger menu > view > terminal
+
+> Note that Google IDX is still in beta which means it is not yet stable. Make sure you record your project work in the Google Docs template as you make progress just in case the environment becomes corrupted.
 
 ## Getting started
 
