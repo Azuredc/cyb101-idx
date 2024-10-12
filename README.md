@@ -1,3 +1,8 @@
+# README
+
+This repo is used to initalize a Google IDX VM
+https://idx.google.com/import?url=https://github.com/clintmint/cyb101-idx
+
 ## CYB-101 Google IDX Lab Environment
 
 You should see a terminal at the bottom of this window where you can work on labs and projects. If the terminal panel is missing, you can open it again with a keyboard shortcut:
