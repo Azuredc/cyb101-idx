@@ -1,6 +1,10 @@
 { pkgs, ... }: {
   channel = "stable-23.11";
-  packages = [];
+  packages = [
+    pkgs.sudo
+    pkgs.openssl
+    pkgs.openssh
+  ];
   env = {};
   services.docker.enable = true;
   idx = {
